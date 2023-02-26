@@ -6,3 +6,5 @@ Bananas
 Cherries
 Pineapples
 Strawberries
+Tomatos
+Potatos
